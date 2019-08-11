@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Room Database</string>
+    <string name="name_ui">Name</string>
+    <string name="add_student_ui">Add Student</string>
+    <string name="faculty_ui">Faculty</string>
+    <string name="roll_ui">Roll</string>
+    <string name="address_ui">Address</string>
+    <string name="save_details_ui">Save Details</string>
+    <string name="read_data_ui">Read Data</string>
+    <string name="update_ui">Update</string>
+    <string name="delete_ui">Delete</string>
+</resources>
